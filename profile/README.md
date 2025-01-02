@@ -1,4 +1,4 @@
-# SDEV
+# Software Development (SDEV)
 
 The software development program at NAIT.
 
