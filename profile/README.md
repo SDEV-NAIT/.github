@@ -11,3 +11,4 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 - [SDEV1000 - Logic and Problem Solving](https://github.com/SDEV-NAIT/SDEV1000)
 - [SDEV1001 - Programming Fundamentals](https://github.com/SDEV-NAIT/SDEV1001)
 - [SDEV1150 - Introduction to Frontend Development](https://github.com/SDEV-NAIT/SDEV1150)
+- [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
