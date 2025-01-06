@@ -12,3 +12,4 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 - [SDEV1001 - Programming Fundamentals](https://github.com/SDEV-NAIT/SDEV1001)
 - [SDEV1150 - Introduction to Frontend Development](https://github.com/SDEV-NAIT/SDEV1150)
 - [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
+- [SDEV1701 - UX/UI for developers](https://github.com/SDEV-NAIT/SDEV1701)
