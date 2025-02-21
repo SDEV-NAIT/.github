@@ -2,10 +2,14 @@
 
 The software development program at NAIT.
 
+## Resources
+
+All Brightspace courses duplicate this course: https://lms.nait.ca/d2l/home/77100
+    - Please contact Nathan Humphrey, Laurel Schmidt if you need access to this course.
+
 ## Courses
 
 Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide). If you're an instructor read it!
-
 
 ### Term 1
 
@@ -20,8 +24,3 @@ Milestone Dates:
 - [SDEV1150 - Introduction to Frontend Development](https://github.com/SDEV-NAIT/SDEV1150)
 - [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
 - [SDEV1701 - UX/UI for developers](https://github.com/SDEV-NAIT/SDEV1701)
-
-## Resources
-
-All courses Brightspace duplicate this course: https://lms.nait.ca/d2l/home/77100
-    - Please contact Nathan Humphrey, Laurel Schmidt if you need access to this course.
