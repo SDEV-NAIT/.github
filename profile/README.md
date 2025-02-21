@@ -8,9 +8,9 @@ The software development program at NAIT.
     - Please contact Nathan Humphrey, Laurel Schmidt if you need access to this course.
 
 [Adobe brand for styling on brightspace](https://new.express.adobe.com/brands/urn:aaid:sc:US:f15ade60-574d-4f05-886b-35cf0d734287)
-    - colors
-    - text and header
-    - templates for module banners and welcome banners
+- colors
+- text and header
+- templates for module banners and welcome banners
 
 ## Courses
 
