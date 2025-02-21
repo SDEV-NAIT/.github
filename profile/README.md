@@ -4,17 +4,17 @@ The software development program at NAIT.
 
 ## Resources
 
-All Brightspace courses duplicate this course: https://lms.nait.ca/d2l/home/77100
+[All Brightspace courses duplicate this course](https://lms.nait.ca/d2l/home/77100)
     - Please contact Nathan Humphrey, Laurel Schmidt if you need access to this course.
-
-## Courses
-
-Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide). If you're an instructor read it!
 
 [Adobe brand for styling on brightspace](https://new.express.adobe.com/brands/urn:aaid:sc:US:f15ade60-574d-4f05-886b-35cf0d734287)
     - colors
     - text and header
     - templates for module banners and welcome banners
+
+## Courses
+
+Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide). If you're an instructor read it!
 
 ### Term 1
 
