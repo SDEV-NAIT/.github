@@ -26,4 +26,12 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 
 ### Term 2
 
-(todo)
+- [SDEV2401 - Rapid Backend Development](https://github.com/SDEV-NAIT/SDEV2401)
+- [SDEV2301 - Introduction to Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2301)
+- [SDEV2150 - Intermediate Frontend Development](https://github.com/SDEV-NAIT/SDEV2150)
+- 1801 System Analysis and Design (Note this is on brightspace not on github due to no need for software examples)
+- 1802 Collaborative Software Development Practices (Note this is on brightspace not on github due to no need for software examples)
+
+### Term 3
+
+(Todo)
