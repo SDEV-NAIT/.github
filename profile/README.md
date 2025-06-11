@@ -41,4 +41,5 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 
 ### Term 3
 
-(Todo)
+- [Data Science and Data Visualization](https://github.com/SDEV-NAIT/SDEV2501)
+(todo)
