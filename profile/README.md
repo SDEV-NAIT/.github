@@ -19,6 +19,10 @@ The software development program at NAIT.
 
 *Note if you want to edit this file please clone the [organization repo](https://github.com/SDEV-NAIT/.github) and edit the `profile/README.md` file. This is the file that displays the information you're reading right now.*
 
+## Course Organizations
+
+Course organizations should have the format **NAIT-SDEVxxxx** (where **xxxx** is the course number) Please contact Nathan Humphrey to create them.
+
 ## Courses
 
 Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide). If you're an instructor read it!
