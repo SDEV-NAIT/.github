@@ -23,6 +23,10 @@ The software development program at NAIT.
 
 Course organizations should have the format **NAIT-SDEVxxxx** (where **xxxx** is the course number) Please contact Nathan Humphrey to create them.
 
+### What should be in the course organization vs here?
+- **Course organization**: Assignment templates (anything for github classroom), semester example repos/workbooks, and student assignments. Essentially anything that students need to see or use.
+- **This organization**: Course Development, resources (the github "primary course repo" see [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide)), solutions. Essentialy anything that is only for instructors or contributors to the course.
+
 ## Courses
 
 Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide). If you're an instructor read it!
