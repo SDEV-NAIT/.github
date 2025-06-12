@@ -33,17 +33,24 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 
 ### Term 1
 
-- [SDEV1000 - Logic and Problem Solving](https://github.com/SDEV-NAIT/SDEV1000)
-- [SDEV1001 - Programming Fundamentals](https://github.com/SDEV-NAIT/SDEV1001)
-- [SDEV1150 - Introduction to Frontend Development](https://github.com/SDEV-NAIT/SDEV1150)
-- [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
-- [SDEV1701 - UX/UI for developers](https://github.com/SDEV-NAIT/SDEV1701)
+- Course Dev Primary: [SDEV1000 - Logic and Problem Solving](https://github.com/SDEV-NAIT/SDEV1000)
+- Course Dev Primary: [SDEV1001 - Programming Fundamentals](https://github.com/SDEV-NAIT/SDEV1001)
+  - Github Organization: [NAIT-SDEV1001](https://github.com/NAIT-SDEV1001)
+- Course Dev Primary: [SDEV1150 - Introduction to Frontend Development](https://github.com/SDEV-NAIT/SDEV1150)
+  - Github Organization: [NAIT-SDEV1150](https://github.com/NAIT-SDEV1150)
+- Course Dev Primary: [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
+  - Github Organization: [NAIT-SDEV1201](https://github.com/orgs/NAIT-SDEV1201)
+- Course Dev Primary: [SDEV1701 - UX/UI for developers](https://github.com/SDEV-NAIT/SDEV1701)
+  - Github Organization: [NAIT-SDEV1701](https://github.com/orgs/NAIT-SDEV1701)
 
 ### Term 2
 
-- [SDEV2401 - Rapid Backend Development](https://github.com/SDEV-NAIT/SDEV2401)
-- [SDEV2301 - Introduction to Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2301)
-- [SDEV2150 - Intermediate Frontend Development](https://github.com/SDEV-NAIT/SDEV2150)
+- Course Dev Primary: [SDEV2401 - Rapid Backend Development](https://github.com/SDEV-NAIT/SDEV2401)
+  - Github Organization: [NAIT-SDEV2401](https://github.com/NAIT-SDEV2401)
+- Course Dev Primary: [SDEV2301 - Introduction to Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2301)
+  - Github Organization: [NAIT-SDEV2301](https://github.com/NAIT-SDEV2301)
+- Course Dev Primary: [SDEV2150 - Intermediate Frontend Development](https://github.com/SDEV-NAIT/SDEV2150)
+  - Github Organization: [NAIT-SDEV2150](https://github.com/NAIT-SDEV2150)
 - 1801 System Analysis and Design (Note this is on brightspace not on github due to no need for software examples)
 - 1802 Collaborative Software Development Practices (Note this is on brightspace not on github due to no need for software examples)
 
