@@ -23,9 +23,10 @@ The software development program at NAIT.
 
 *Note if you want to edit this file please clone the [organization repo](https://github.com/SDEV-NAIT/.github) and edit the `profile/README.md` file. This is the file that displays the information you're reading right now.*
 
-## Course Organizations
+## Course Organizations and Primary Repositories
 
-Course organizations should have the format **NAIT-SDEVxxxx** (where **xxxx** is the course number) Please contact Nathan Humphrey to create them.
+- Course organizations should have the format **NAIT-SDEVxxxx** (where **xxxx** is the course number) Please contact Nathan Humphrey to create them.
+- If you don't have a primary repository for your course yet please contact Daniel Mouris, who will create it for you.
 
 ### What should be in the course organization vs here?
 - **Course organization**: Assignment templates (anything for github classroom), semester example repos/workbooks, and student assignments. Essentially anything that students need to see or use.
