@@ -52,6 +52,8 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
       - please contact Dan Mouris to be added.
 - Course Dev Primary: [SDEV1150 - Introduction to Frontend Development](https://github.com/SDEV-NAIT/SDEV1150)
   - Github Organization: [NAIT-SDEV1150](https://github.com/NAIT-SDEV1150)
+    - Fall 2025 Org: [NAIT-SDEV1150-Fall2025](https://github.com/NAIT-SDEV1150-Fall2025)
+      - please contact Nathan Humphrey to be added.
 - Course Dev Primary: [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
   - Github Organization: [NAIT-SDEV1201](https://github.com/orgs/NAIT-SDEV1201)
 - Course Dev Primary: [SDEV1701 - UX/UI for developers](https://github.com/SDEV-NAIT/SDEV1701)
