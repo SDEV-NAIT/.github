@@ -48,6 +48,8 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 - Course Dev Primary: [SDEV1000 - Logic and Problem Solving](https://github.com/SDEV-NAIT/SDEV1000)
 - Course Dev Primary: [SDEV1001 - Programming Fundamentals](https://github.com/SDEV-NAIT/SDEV1001)
   - Github Organization: [NAIT-SDEV1001](https://github.com/NAIT-SDEV1001)
+    - Fall 2025 Org: [NAIT-SDEV1001-Fall2025](https://github.com/NAIT-SDEV1001-Fall2025)
+      - please contact Dan Mouris to be added.
 - Course Dev Primary: [SDEV1150 - Introduction to Frontend Development](https://github.com/SDEV-NAIT/SDEV1150)
   - Github Organization: [NAIT-SDEV1150](https://github.com/NAIT-SDEV1150)
 - Course Dev Primary: [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
