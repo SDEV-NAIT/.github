@@ -39,6 +39,15 @@ A set of tools to build content, contains:
 - **Course organization**: Assignment templates (anything for github classroom), semester example repos/workbooks, and student assignments. Essentially anything that students need to see or use.
 - **This organization**: Course Development, resources (the github "primary course repo" see [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide)), solutions. Essentialy anything that is only for instructors or contributors to the course.
 
+## Github Classroom and Organization Usage Tutorials
+
+- [How to use Github Classroom](https://www.youtube.com/watch?v=wZGQJ91YBfw&ab_channel=DanielMouris)
+  - This is the basic how to for folks who have never used github classroom before.
+
+- [(Course Leaders only) How to create an organization for your class and create templates](https://youtu.be/AtCY_rN-nqQ)
+  - Here's the link for course leaders who are confused on how to create organizations and templates for other instructors.
+
+
 ## Courses
 
 Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide). If you're an instructor read it!
