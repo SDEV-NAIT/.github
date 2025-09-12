@@ -41,10 +41,10 @@ A set of tools to build content, contains:
 
 ## Github Classroom and Organization Usage Tutorials
 
-- [How to use Github Classroom](https://www.youtube.com/watch?v=wZGQJ91YBfw&ab_channel=DanielMouris)
+- [How to use Github Classroom](https://youtu.be/AtCY_rN-nqQ)
   - This is the basic how to for folks who have never used github classroom before.
 
-- [(Course Leaders only) How to create an organization for your class and create templates](https://youtu.be/AtCY_rN-nqQ)
+- [(Course Leaders only) How to create an organization for your class and create templates](https://www.youtube.com/watch?v=wZGQJ91YBfw&ab_channel=DanielMouris)
   - Here's the link for course leaders who are confused on how to create organizations and templates for other instructors.
 
 
