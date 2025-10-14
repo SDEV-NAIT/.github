@@ -81,6 +81,10 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 
 ### Term 3
 
-- [SDEV2501 - Data Science and Data Visualization](https://github.com/SDEV-NAIT/SDEV2501)
+- Course Dev Primary: [SDEV2501 - Data Science and Data Visualization](https://github.com/SDEV-NAIT/SDEV2501)
+- Course Dev Primary: [SDEV2451 - Full Stack Development](https://github.com/SDEV-NAIT/SDEV2451)
+- Course Dev Primary: [SDEV2351 - Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2351)
+
+### Term 4
 
 (todo)
