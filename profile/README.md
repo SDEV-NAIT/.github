@@ -4,6 +4,9 @@ The software development program at NAIT.
 
 ## Resources
 
+[Digital Design Program Organization here](https://github.com/NAIT-Digital-Design).
+    - If you're looking for the digital design program resources please go here.
+
 [All Brightspace courses duplicate this course](https://lms.nait.ca/d2l/home/77100)
     - Please contact Nathan Humphrey, Laurel Schmidt if you need access to this course.
 
