@@ -66,6 +66,7 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
     - Fall 2025 Org: [NAIT-SDEV1150-Fall2025](https://github.com/NAIT-SDEV1150-Fall2025)
       - please contact Nathan Humphrey to be added.
 - Course Dev Primary: [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
+  - Looks like sharepoint was used for this course [SDEV1201 Sharepoint Link](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?CT=1757821498106&OR=OWA%2DNT%2DMail&CID=69ae4c45%2D6859%2Da1ee%2Dc082%2Da1dc51f79fe9&e=5%3Ad2dc7cd2ba3c41379cac269b289b1b5a&sharingv2=true&fromShare=true&at=9&cidOR=Client&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C&id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FTerm%201%2FPrescribed%20Core%2FSDEV1201%20%2D%20Database%20Fundamentals%2FJH%20documents)
   - Github Organization: [NAIT-SDEV1201](https://github.com/orgs/NAIT-SDEV1201)
 - Course Dev Primary: [SDEV1701 - UX/UI for developers](https://github.com/SDEV-NAIT/SDEV1701)
   - Github Organization: [NAIT-SDEV1701](https://github.com/orgs/NAIT-SDEV1701)
