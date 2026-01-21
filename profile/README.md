@@ -4,11 +4,10 @@ The software development program at NAIT.
 
 ## Resources
 
-[Digital Design Program Organization here](https://github.com/NAIT-Digital-Design).
-    - If you're looking for the digital design program resources please go here.
+[Digital Design Program Organization here](https://github.com/NAIT-Digital-Design)
 
 [All Brightspace courses duplicate this course](https://lms.nait.ca/d2l/home/77100)
-    - Please contact Nathan Humphrey, Laurel Schmidt if you need access to this course.
+- Please contact Nathan Humphrey, Laurel Schmidt if you need access to this course.
 
 [Adobe brand for styling on brightspace](https://new.express.adobe.com/brands/urn:aaid:sc:US:f15ade60-574d-4f05-886b-35cf0d734287)
 - colors
