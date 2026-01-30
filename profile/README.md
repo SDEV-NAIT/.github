@@ -37,6 +37,11 @@ A set of tools to build content, contains:
 - Course organizations should have the format **NAIT-SDEVxxxx** (where **xxxx** is the course number) Please contact Nathan Humphrey to create them.
 - If you don't have a primary repository for your course yet please contact Daniel Mouris, who will create it for you.
 
+## Speaker Series
+
+We're trying out a speaker series for the Software Development program, ask if you want to bring someone in to speak to the students.
+[Tracking speaker series here](https://naitca.sharepoint.com/teams/SDEVProgramInstructors/_layouts/15/doc.aspx?sourcedoc={1b3f158b-7ed4-40e1-9eaf-fdca6685c5e6}&action=edit)
+
 ### What should be in the course organization vs here?
 - **Course organization**: Assignment templates (anything for github classroom), semester example repos/workbooks, and student assignments. Essentially anything that students need to see or use.
 - **This organization**: Course Development, resources (the github "primary course repo" see [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide)), solutions. Essentialy anything that is only for instructors or contributors to the course.
