@@ -26,6 +26,11 @@ The software development program at NAIT.
 [Starting Course Development? Here's the course files that you need (please don't remove any of the content just download them.)](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FGeneral%2FTemplates&viewid=64a7cd14%2D7601%2D49e2%2D8142%2Df36c41135519&csf=1&web=1&e=CiwNMo&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg0MjkuMjAxMzIiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=85387fa1%2Df010%2D0000%2D74a2%2D1ae0a3269683&cidOR=SPO&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C)
 - Note here's some [old starter files for reference](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FCourse%20Starter%20Files&viewid=64a7cd14%2D7601%2D49e2%2D8142%2Df36c41135519&csf=1&web=1&e=CiwNMo&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg0MjkuMjAxMzIiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=85387fa1%2Df010%2D0000%2D74a2%2D1ae0a3269683&cidOR=SPO&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C) if you're looking for them.
 
+## Course Building tools
+
+[James Thompson AI (claude) toolkit](https://github.com/SDEV-NAIT/AI-claude-starter-kit)
+- A set of tools for using claude for course development.
+
 [NAIT Course Building Tools](https://github.com/SDEV-NAIT/nait-slide-builder)
 A set of tools to build content, contains:
 - A slide builder to create NAIT standard slides for presentations from markdown files
