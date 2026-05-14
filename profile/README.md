@@ -2,6 +2,8 @@
 
 The software development program at NAIT.
 
+*Note if you want to edit this file with more resource please clone the [organization repo](https://github.com/SDEV-NAIT/.github) and edit the `profile/README.md` file. This is the file that displays the information you're reading right now.*
+
 ## Resources
 
 [Digital Design Program Organization here](https://github.com/NAIT-Digital-Design)
@@ -41,8 +43,6 @@ A set of tools to build content, contains:
 Please ask Clayton Amelia for access to this repository.
 - sample courses using this tool [SYSA2010](https://github.com/claytona-nait/SYSA2010_course_summary)
 - sample courses using this tool [SYSA2120](https://github.com/claytona-nait/SYSA2120_Course_Summary)
-
-*Note if you want to edit this file please clone the [organization repo](https://github.com/SDEV-NAIT/.github) and edit the `profile/README.md` file. This is the file that displays the information you're reading right now.*
 
 ## Course Organizations and Primary Repositories
 
