@@ -37,6 +37,11 @@ A set of tools to build content, contains:
 - A workbook builder to create workbooks for students (for each semester)
 - A lesson plan builder to create word lesson plans (required for development) from yml files.
 
+[Claytons Course Generator](https://github.com/claytona-nait/Course-Generator)
+Please ask Clayton Amelia for access to this repository.
+- sample courses using this tool [SYSA2010](https://github.com/claytona-nait/SYSA2010_course_summary)
+- sample courses using this tool [SYSA2120](https://github.com/claytona-nait/SYSA2120_Course_Summary)
+
 *Note if you want to edit this file please clone the [organization repo](https://github.com/SDEV-NAIT/.github) and edit the `profile/README.md` file. This is the file that displays the information you're reading right now.*
 
 ## Course Organizations and Primary Repositories
