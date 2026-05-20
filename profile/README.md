@@ -107,7 +107,11 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 - Course Dev Primary: [SDEV2351 - Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2351)
   - [James Sandbox environemnt](https://github.com/jthompsonnait/SDEV2351-CDD)
 - Course Dev Primary: [SDEV2171 - Mobile Application Development](https://github.com/SDEV-NAIT/SDEV2171)
+- SDEV2801 - Technical Documentation and Facilitation (Note this is on brightspace not on github due to no need for software examples)
 
 ### Term 4
 
-(todo)
+- Course Dev Primary: [SDEV3601 - Introduction to Developer Operations and Production Systems](https://github.com/SDEV-NAIT/SDEV3601)
+- Course Dev Primary: [SDEV2551 - Introduction to Artificial Intelligence](https://github.com/SDEV-NAIT/SDEV2551)
+- Course Dev Primary: [SDEV2201 - Business Intelligence Tools](https://github.com/SDEV-NAIT/SDEV2201)
+- 3001 Capstone Project (Note this is on brightspace not on github due to no need for software examples)
