@@ -96,8 +96,8 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
   - Github Organization: [NAIT-SDEV2301](https://github.com/NAIT-SDEV2301)
 - Course Dev Primary: [SDEV2150 - Intermediate Frontend Development](https://github.com/SDEV-NAIT/SDEV2150)
   - Github Organization: [NAIT-SDEV2150](https://github.com/NAIT-SDEV2150)
-- 1801 System Analysis and Design (Note this is on brightspace not on github due to no need for software examples)
-- 1802 Collaborative Software Development Practices (Note this is on brightspace not on github due to no need for software examples)
+- [1801 System Analysis and Design](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=osSYxF&CID=b6254b74%2Dd8b2%2D40d0%2Da670%2D22db4b836fed&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C&id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FTerm%202%2FPrescribed%20Core%2FSDEV1801%20%2D%20Systems%20Analysis%20and%20Design) (Hosted on Sharepoint)
+- [1802 Collaborative Software Development Practices](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=u9rkHh&CID=4a9403f5%2D33f0%2D4a4e%2Db0dd%2D8bd81a901433&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C&id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FTerm%202%2FPrescribed%20Core%2FSDEV1802%20%2D%20Collaborative%20Software%20Development%20Practices) (Hosted on sharepoint)
 
 ### Term 3
 
@@ -107,7 +107,7 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 - Course Dev Primary: [SDEV2351 - Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2351)
   - [James Sandbox environemnt](https://github.com/jthompsonnait/SDEV2351-CDD)
 - Course Dev Primary: [SDEV2171 - Mobile Application Development](https://github.com/SDEV-NAIT/SDEV2171)
-- SDEV2801 - Technical Documentation and Facilitation (Note this is on brightspace not on github due to no need for software examples)
+- [SDEV2801 - Technical Documentation and Facilitation](https://naitca.sharepoint.com/:f:/r/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Software%20Development%20Program/Term%203/Prescribed%20Core/SDEV2801%20-%20Technical%20Documentation%20and%20Facilitation?csf=1&web=1&e=fP2Oq8) (Note this is sharepoint due)
 
 ### Term 4
 
