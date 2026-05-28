@@ -108,7 +108,7 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 - Course Dev Primary: [SDEV2351 - Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2351)
   - [James Sandbox environemnt](https://github.com/jthompsonnait/SDEV2351-CDD)
 - Course Dev Primary: [SDEV2171 - Mobile Application Development](https://github.com/SDEV-NAIT/SDEV2171)
-- [SDEV2801 - Technical Documentation and Facilitation](https://naitca.sharepoint.com/:f:/r/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Software%20Development%20Program/Term%203/Prescribed%20Core/SDEV2801%20-%20Technical%20Documentation%20and%20Facilitation?csf=1&web=1&e=fP2Oq8) (Note this is sharepoint due)
+- [SDEV2801 - Technical Documentation and Facilitation](https://naitca.sharepoint.com/:f:/r/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Software%20Development%20Program/Term%203/Prescribed%20Core/SDEV2801%20-%20Technical%20Documentation%20and%20Facilitation?csf=1&web=1&e=fP2Oq8) (Hosted on sharepoint)
 
 ### Term 4
 
