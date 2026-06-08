@@ -103,6 +103,7 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 ### Term 3
 
 - Course Dev Primary: [SDEV2501 - Data Science and Data Visualization](https://github.com/SDEV-NAIT/SDEV2501)
+  - [temp Share point link for content here](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FTerm%202%2FPrescribed%20Core%2FSDEV2501%20%2D%20Data%20Science%20and%20Data%20Visualization&viewid=64a7cd14%2D7601%2D49e2%2D8142%2Df36c41135519&csf=1&CT=1768520730231&OR=OWA%2DNT%2DMail&CID=08792761%2D036b%2D433b%2Db4a1%2D7397ec41bed8&clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjAxMDIwMDMuMDQiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&cidOR=Client&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C)
 - Course Dev Primary: [SDEV2451 - Full Stack Development](https://github.com/SDEV-NAIT/SDEV2451)
   - Github Organization: [NAIT-SDEV2451](https://github.com/NAIT-SDEV2451/)
 - Course Dev Primary: [SDEV2351 - Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2351)
