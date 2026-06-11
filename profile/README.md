@@ -120,6 +120,9 @@ Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAI
 ### Term 4
 
 - Course Dev Primary: [SDEV3601 - Introduction to Developer Operations and Production Systems](https://github.com/SDEV-NAIT/SDEV3601)
+  - Github Organization: [NAIT-SDEV3601](https://github.com/NAIT-SDEV3601)
 - Course Dev Primary: [SDEV2551 - Introduction to Artificial Intelligence](https://github.com/SDEV-NAIT/SDEV2551)
+  - Github Organization: [NAIT-SDEV2551](https://github.com/NAIT-SDEV2551)
 - Course Dev Primary: [SDEV2201 - Business Intelligence Tools](https://github.com/SDEV-NAIT/SDEV2201)
+  - Github Organization: [NAIT-SDEV2201](https://github.com/NAIT-SDEV2201)
 - 3001 Capstone Project (Note this is on brightspace not on github due to no need for software examples)
