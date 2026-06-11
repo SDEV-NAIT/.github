@@ -59,8 +59,14 @@ We're trying out a speaker series for the Software Development program, ask if y
 - **Course organization**: Assignment templates (anything for github classroom), semester example repos/workbooks, and student assignments. Essentially anything that students need to see or use.
 - **This organization**: Course Development, resources (the github "primary course repo" see [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide)), solutions. Essentialy anything that is only for instructors or contributors to the course.
 
-## Github Classroom and Organization Usage Tutorials
+## Classier (in beta), Github Classroom (deprecated) and Organization Usage Tutorials
 
+#### Classier (in beta)
+
+- [Classier Introduction session](https://youtu.be/Vyr01bxy7sw)
+  - This is the introduction session for classier which is a github replacement tool.
+
+#### Github Classroom (deprecated will be removed)
 - [How to use Github Classroom](https://youtu.be/AtCY_rN-nqQ)
   - This is the basic how to for folks who have never used github classroom before.
 
