@@ -66,12 +66,9 @@ We're trying out a speaker series for the Software Development program, ask if y
 - [Classier Introduction session](https://youtu.be/Vyr01bxy7sw)
   - This is the introduction session for classier which is a github replacement tool.
 
-#### Github Classroom (deprecated will be removed)
-- [How to use Github Classroom](https://youtu.be/AtCY_rN-nqQ)
-  - This is the basic how to for folks who have never used github classroom before.
-
-- [(Course Leaders only) How to create an organization for your class and create templates](https://www.youtube.com/watch?v=wZGQJ91YBfw&ab_channel=DanielMouris)
-  - Here's the link for course leaders who are confused on how to create organizations and templates for other instructors.
+#### Github Assignment Options
+- Until Classier is ready for list, use [these options](https://github.com/SDEV-NAIT/github-assignments) to manage Github assignments.
+#### Github Classroom (deprecated)
 
 
 ## Courses
