@@ -31,14 +31,15 @@ The software development program at NAIT.
 
 ## Course Building tools
 
-[James Thompson AI (claude) toolkit](https://github.com/SDEV-NAIT/AI-claude-starter-kit)
-- A set of tools for using claude for course development.
-
 [NAIT Course Building Tools](https://github.com/SDEV-NAIT/nait-slide-builder)
 A set of tools to build content, contains:
+- A master course to section copier to copy content from a master course to a section course (for each semester)
 - A slide builder to create NAIT standard slides for presentations from markdown files
 - A workbook builder to create workbooks for students (for each semester)
 - A lesson plan builder to create word lesson plans (required for development) from yml files.
+
+[James Thompson AI (claude) toolkit](https://github.com/SDEV-NAIT/AI-claude-starter-kit)
+- A set of tools for using claude for course development.
 
 [Claytons Course Generator](https://github.com/claytona-nait/Course-Generator)
 Please ask Clayton Amelia for access to this repository.
@@ -68,6 +69,7 @@ We're trying out a speaker series for the Software Development program, ask if y
 
 #### Github Assignment Options
 - Until Classier is ready for list, use [these options](https://github.com/SDEV-NAIT/github-assignments) to manage Github assignments.
+
 #### Github Classroom (deprecated)
 
 
